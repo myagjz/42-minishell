@@ -1,2 +1,5 @@
 # minishell
-minishell thats created by intras (cbolat and myagiz) for ecole42
+
+# made by
+<a href="https://github.com/myagjz/myagjz">myagiz</a>
+<a href="https://github.com/CemBOLAT" >cbolat</a>
