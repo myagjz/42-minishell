@@ -24,6 +24,7 @@ void	ft_signalhandler(int sig)
 	g_data->return_code = 1;
 	printf("\n");
 	rl_on_new_line();
+	rl_replace_line("", 0);
 	rl_redisplay();
 }
 
